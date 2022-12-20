@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "697022927004",
+    "project_id": "mystyle-364017",
+    "storage_bucket": "mystyle-364017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697022927004:android:0694ab1b8fed7a49fe1d59",
+        "android_client_info": {
+          "package_name": "com.example.mystylee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697022927004-6l4joiu9bfqrj6u26do4ht3t88c9pt69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7JxV-yxh-gPEPeK1Aj9gI2LFBHGvrVrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697022927004-6l4joiu9bfqrj6u26do4ht3t88c9pt69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
